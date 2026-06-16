@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌤 SkyCast - Weather Forecast App
 
 SkyCast is a weather forecasting application built with React.js that provides real-time weather information, hourly forecasts, air quality data, and interactive weather maps. The application uses the OpenWeatherMap API to fetch live weather data and presents it through a clean and responsive user interface.
@@ -111,3 +112,4 @@ The application uses the following OpenWeatherMap services:
 Prateek Prajapati
 
 Built using React.js and OpenWeatherMap API.
+=======
